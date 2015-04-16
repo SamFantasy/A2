@@ -1,0 +1,8 @@
+Assignment 2
+
+Get the text file called input.txt from github.com/savtwo/
+
+1. Read the file and store the contents into an array called $array_all and print out the contents as they appear in the file.
+
+2. Split $array_all into two new arrays called $array_string and $array_int. Sort the arrays by descending order and print out the array. Each value should be on a new line.
+
